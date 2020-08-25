@@ -2,10 +2,10 @@
 ![](https://github.com/somagicc/Exploratory-Data-Analysis-on-Movies-Data/blob/master/Images/Intro.PNG)
 
 ### Presentation
-Watch the [presentation](https://docs.google.com/presentation/d/1huSoQE3e1uz74Howpzvw_peBVImpeXq_cgswhPmRRyk/edit "presentation") giving the details of the project. 
+Watch the [presentation](https://drive.google.com/file/d/1Wc1fN-UzmwcUUOtnfNUGlRdt6QKlKImj/view?usp=sharing "presentation") giving the details of the project. 
 
 ### Video Presentation
-You can also watch the elaborate [video ](https://www.youtube.com/watch?v=yUopC0USor4&t=137s "video ")presentation.
+You can also watch the elaborate [video ](https://youtu.be/QJvsTe3K-uo "video ")presentation.
 
 ## About the Data
 This dataset provides information of of 1,000 most popular movies on IMDb in the last 10 years. The data fields included are: Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore
@@ -64,7 +64,7 @@ Movies which are a combination of Drama, Action and Adventure can earn more reve
 
 <a id=section10></a>
 ## 10. Python Notebook
-Find all the codes [here.](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Gender_Recognition_by_Voice.ipynb "here")
+Find all the codes [here.](https://github.com/https://github.com/somagicc/Exploratory-Data-Analysis-on-Movies-Data/blob/master/EDA_Movies_Data.ipynb "here")
 
 Thank you!
 

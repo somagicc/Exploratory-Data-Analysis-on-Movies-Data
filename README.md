@@ -30,7 +30,7 @@ This dataset provides information of of 1,000 most popular movies on IMDb in the
 remove missing values in 'Revenue' column by imputing median value.
 remove missing values in 'Metascore' column using 'forward filling' method.
 
-
+## Data Analysis
 1. Distribution of Movies of the years
 ![](https://github.com/somagicc/Exploratory-Data-Analysis-on-Movies-Data/blob/master/Images/Distribution%20of%20Movies%20over%20the%20Years.png)
 

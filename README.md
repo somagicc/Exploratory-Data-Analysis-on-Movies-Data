@@ -64,7 +64,7 @@ Movies which are a combination of Drama, Action and Adventure can earn more reve
 
 <a id=section10></a>
 ## 10. Python Notebook
-Find all the codes [here.](https://github.com/https://github.com/somagicc/Exploratory-Data-Analysis-on-Movies-Data/blob/master/EDA_Movies_Data.ipynb "here")
+Find all the codes [here.](https://github.com/somagicc/Exploratory-Data-Analysis-on-Movies-Data/blob/master/EDA_Movies_Data.ipynb "here")
 
 Thank you!
 
